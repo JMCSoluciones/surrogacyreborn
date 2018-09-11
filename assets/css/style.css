@@ -945,6 +945,13 @@ section > h2 {
     margin-bottom: 0; }
   .page .entry-header .entry-subtitle {
     color: #9f9f9f; }
+
+    .entry-subtitleAbout{
+      color: #ffffff;
+    }
+    .entry-titleAbout{
+      color: #ffffff;
+    }
   .page .entry-header.header-with-cover-image {
     background-size: cover;
     background-position: center top;
